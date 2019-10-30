@@ -3,7 +3,6 @@ version: TWICE
 main: xfui\Main
 api: 3.0.0
 softdepend:
-- FactionsPro
 - FormAPI
 - EconomyAPI
 author: xSoapers
