@@ -3,7 +3,7 @@
 
 ## Factions With UI
 
-Get .phar on poggit [Click here](https://poggit.pmmp.io/ci/Muqsit/InvMenu/~).
+Get .phar on poggit [Click here](https://poggit.pmmp.io/ci/xSoapers/xFactionsUI/~).
 
 ## Have Problem With This Plugin?
 create issues [here](https://github.com/xSoapers/xFactionsUI/issues).
