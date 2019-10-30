@@ -1,0 +1,10 @@
+name: xFactionsUI
+version: TWICE
+main: xfui\Main
+api: 3.0.0
+softdepend:
+- FactionsPro
+author: xSoapers
+commands:
+ fui:
+  description: "Faction UI"
